@@ -4,7 +4,7 @@
 
 🎓 Computer Science Student @ Birzeit University | Specializing in **Data Engineering**, **Generative AI**, and **Scalable Backend Systems**
 
-📍 Ramallah, Palestine | 📧 [lanazaben68@gmail.com](mailto:lanazaben68@gmail.com) | ☎️ 0593848185
+📍 Ramallah, Palestine | 📧 [lanazaben68@gmail.com](mailto:lanazaben68@gmail.com) 
 
 ---
 
@@ -91,14 +91,6 @@ I'm a passionate Computer Science undergraduate with a strong foundation in **da
 
 ### **Languages**
 🗣️ **Arabic** (Native) • 🗣��� **English** (Fluent) • 🗣️ **French** (Beginner)
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lanazabencuz&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lanazabencuz&layout=compact&theme=dark&hide_border=true)
 
 ---
 
