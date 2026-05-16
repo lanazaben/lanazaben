@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub | Lana Shurhabil Izzat Zaben
 
-**Data Engineer | AI Developer | Backend Systems Enthusiast**
+**Data Engineer | AI Developer | Appian Developer Trainiee**
 
 🎓 Computer Science Student @ Birzeit University | Specializing in **Data Engineering**, **Generative AI**, and **Scalable Backend Systems**
 
